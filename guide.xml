@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo SD">
+    <display-name lang="pt">Globo SD </display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SBT GO HD">
+    <display-name lang="pt">SBT GO HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO SD">
+    <display-name lang="pt">HBO SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Cinemax SD">
+    <display-name lang="pt">Cinemax SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+</tv>
